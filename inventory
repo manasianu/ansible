@@ -1,1 +1,1 @@
-52.140.52.232 ansible_connection=ssh ansible_ssh_user=azureuser
+52.140.52.232  ansible_user=azureuser
